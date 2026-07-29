@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class SplachViwe extends StatelessWidget {
-  const SplachViwe({super.key});
+class HomeViwe extends StatelessWidget {
+  const HomeViwe({super.key});
 
   @override
   Widget build(BuildContext context) {

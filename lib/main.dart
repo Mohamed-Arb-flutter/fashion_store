@@ -1,4 +1,4 @@
-import 'package:fashion_store/Feather/splach/viwes/splach_viwe.dart';
+import 'package:fashion_store/Feather/Auth/viwes/splach_viwe.dart';
 import 'package:flutter/material.dart';
 
 void main() {
